@@ -1,4 +1,9 @@
-## Team 34
-This is a filler page
+## ENG1 - Team 34 - Team Glytch
 
-We are making a game called Auber 
+
+Aim: Implement "Auber", a game based on a Space Station
+
+### Main Links
+- [Game Repo](https://github.com/ENG-Team-7/Auber-Code)
+- [Deliverables Folder](https://github.com/ENG-Team-7/Assesment1)
+
