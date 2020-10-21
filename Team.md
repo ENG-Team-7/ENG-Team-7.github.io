@@ -1,5 +1,6 @@
 ---
 title: Team Members
+Permalink: /team
 ---
 
 # Our Team
