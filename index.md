@@ -7,6 +7,8 @@ Aim: Implement "Auber", a game based on a Space Station
 
 - [Game Repo](https://github.com/ENG-Team-7/Auber-Code)
 - [Deliverables Folder](https://github.com/ENG-Team-7/Assesment1)
+- [Team](https://team-glytch.github.io/team)
+- [Updates](https://team-glytch.github.io/updates)
 
 ### Final Deliverable PDFs
 
